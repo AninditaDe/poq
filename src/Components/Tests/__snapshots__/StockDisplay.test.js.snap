@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Product /> should call fetch on mount if prop: reloadData is true 1`] = `ShallowWrapper {}`;
