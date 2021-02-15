@@ -6,9 +6,9 @@ This solution consists of a React application that loads products from an API an
 # Scope of Functionalities
  - Displaying a grid of products with product image, promotion badge, name, current price and previous price.
  - Allow users to toggle a selection of products.
- - User can remove slected itmes using “Remove selected” button from the product list.
- - Product stock level displayed conditioanly as per te requirement depending upon quantity,lowOnStock properties 
- - Invalid products are hidden based on available property
+ - Users can remove selected items using the “Remove selected” button from the product list.
+ - Product stock level displayed conditionally as per the requirement depending upon quantity,lowOnStock propertiesInvalid 
+ - Products are hidden based on available property
 
 # Additional
 Included a sample test
